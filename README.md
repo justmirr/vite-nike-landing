@@ -4,7 +4,7 @@ This repository contains a simple Nike landing page built with React and Vite. I
 
 To run this project:
 
-1. **Clone the repository:** `git clone https://github.com/your-username/your-repo-name.git`
-2. **Navigate to the project directory:** `cd your-repo-name`
+1. **Clone the repository:** `git clone https://github.com/justmirr/vite-nike-landing.git`
+2. **Navigate to the project directory:** `cd vite-nike-landing`
 3. **Install dependencies:** `npm install`
 4. **Start the development server:** `npm run dev`   
