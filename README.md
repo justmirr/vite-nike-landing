@@ -1,8 +1,10 @@
-# React + Vite
+# Simple Nike Landing Page (React/Vite) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a simple Nike landing page built with React and Vite. It was created as a practice project following a Figma design found [here](https://www.figma.com/design/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?node-id=0-1&node-type=canvas&t=Qa46iU8tK9YVaca4-0). The project focuses on implementing React components and utilizing Vite for a fast and efficient development experience. 
 
-Currently, two official plugins are available:
+To run this project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone the repository:** `git clone https://github.com/justmirr/vite-nike-landing.git`
+2. **Navigate to the project directory:** `cd vite-nike-landing`
+3. **Install dependencies:** `npm install`
+4. **Start the development server:** `npm run dev`   
